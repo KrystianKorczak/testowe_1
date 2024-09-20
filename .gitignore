@@ -4,8 +4,11 @@
 # ?     
 # ignoruje wszystko w katalogu sekret
 /jeden/dwa/sekret/*
+# ignoruje wszystkie pliki z rozszerzeniem .log 
 *.log
+# ignoruje wszystkie pliki z rozszerzeniem .log w katalogu cache
 cache/
+# ignoruje wszystkie pliki z rozszerzeniem .log w katalogu i jego podkatalogach 
 *~
 # ignoruje pliki test o nazwie od 1 do 3
 /jeden/dwa/test[1-3].txt
