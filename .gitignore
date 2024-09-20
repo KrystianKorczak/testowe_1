@@ -3,3 +3,6 @@
 # ** zastepuje dowolny ciąg 
 # ignoruje wszystko w katalogu sekret
 /jeden/dwa/sekret/*
+*.log
+cache/
+*~
