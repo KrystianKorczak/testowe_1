@@ -1,0 +1,5 @@
+# tu jest komentarz
+# * zastępuje dowolny ciąg znaków
+# ** zastepuje dowolny ciąg 
+# ignoruje wszystko w katalogu sekret
+/jeden/dwa/sekret/*
